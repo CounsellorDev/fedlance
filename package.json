@@ -1,0 +1,26 @@
+{
+  "name": "fulwork",
+  "version": "1.0.0",
+  "description": "'Federal University Lokoja', 'Federal University Lokoja Fiverr'",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CounsellorDev/fedlance.git"
+  },
+  "keywords": [
+    "fulokoja"
+  ],
+  "author": "Fedlance Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CounsellorDev/fedlance/issues"
+  },
+  "homepage": "https://github.com/CounsellorDev/fedlance#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
